@@ -1,8 +1,9 @@
 This contains source code for enumerating permutations avoiding the 1324 pattern,
 as described in 
-  On 1324-avoiding permutations
+  On the growth rate of 1324-avoiding permutations
   Andrew R. Conway and Anthony J. Guttmann
- 
+  http://arxiv.org/abs/1405.6802
+   
 The language is scala, tested in versions 2.10 and 2.11.
 Libraries are needed in order to get it to compile and run
   - junit4 (to compile ZZZ_Signature, a test case). 
